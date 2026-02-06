@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Hello! I'm Harsh.
 
-### More Information
+I am a computer science student passionate about **Software Development** and **Problem Solving**. 
 
-A place to include any other types of information that you'd like to include about yourself.
+My focus is on building a strong foundation in core programming concepts and logic design. I enjoy breaking down complex problems and translating them into efficient code.
 
-### Contact me
+### 💻 Technical Skills
+* **Languages:** C, Java, Python
+* **Web:** HTML, CSS basics
+* **Tools:** Git, GitHub, VS Code
 
-[email@domain.com](mailto:email@domain.com)
+### 📚 What I'm Learning
+Currently, I am strengthening my skills in **Data Structures & Algorithms** using Java and exploring new things. 
+
+I am always looking for opportunities to apply my coding skills to real-world challenges. When I'm not coding, I enjoy participating in university clubs and expanding my technical horizons.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/HarshKumar2029)
